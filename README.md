@@ -1,1 +1,2 @@
 # LandingPage-TOEN
+Bài thực hành nhằm giúp sinh viên làm quen với GitHub thông qua một dự án thực tế, cụ thể là xây dựng một trang Landing Page tĩnh bằng HTML/CSS theo hình thức làm việc nhóm. Trong quá trình thực hiện, sinh viên được tiếp cận và thực hành các khái niệm quan trọng trong phát triển phần mềm hiện đại như GitFlow branching, Pull Request, merge conflict, Issue management và CI/CD với GitHub Actions.
